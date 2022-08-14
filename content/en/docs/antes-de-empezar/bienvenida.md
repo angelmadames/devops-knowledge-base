@@ -2,8 +2,8 @@
 title : "¡Bienvenida!"
 description: ""
 lead: ""
-date: 2020-10-06T08:48:45+00:00
-lastmod: 2020-10-06T08:48:45+00:00
+date: 2022-08-14T08:48:45+00:00
+lastmod: 2022-08-14T08:48:45+00:00
 draft: false
 images: []
 menu:
@@ -53,9 +53,9 @@ Este curso no utiliza de manera estricta ningún libro particular, por tanto, co
 
 <!-- Referencias -->
 
-[Motivación]: MOTIVACION.md
-[Programa]: PROGRAMA.md
-[Repositorio]: https://github.com/angelmadames/thesis
+[Motivación]: motivacion.md
+[Programa]: programa.md
+[Repositorio]: https://github.com/angelmadames/base-de-conocimiento-devops
 
 [AWS]: https://aws.amazon.com
 [AWS CLI]: https://aws.amazon.com/cli
