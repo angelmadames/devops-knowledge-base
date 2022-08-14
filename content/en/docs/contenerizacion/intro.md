@@ -35,11 +35,13 @@ Una de las prácticas que mejor demuestra el enfoque cultural y técnico que Dev
 - [:two: Docker](../docker.md)
 - [:three: Docker Compose](../docker-compose)
 
+<!--
 ## Laboratorios :microscope:
 
 - [Lab. 4.1 - Usando Docker Ad-hoc]()
 - [Lab. 4.2 - Creando primer Dockerfile]()
 - [Lab. 4.3 - Intro a Docker Compose]()
+-->
 
 ### Plataformas interactivas
 
