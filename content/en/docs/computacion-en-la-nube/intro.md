@@ -31,8 +31,8 @@ DevOps es nativo de la computación en la nube. Así que es allí donde más afi
 
 ## Temas :book:
 
-- [:one: Servicios en la nube](servicios-en-la-nube.md)
-- [:two: Proveedores de la nube](proveedores-de-la-nube.md)
+- [:one: Servicios en la nube](../servicios-en-la-nube)
+- [:two: Proveedores de la nube](../proveedores-de-la-nube)
 
 ## Laboratorios :microscope:
 

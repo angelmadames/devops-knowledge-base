@@ -27,3 +27,8 @@ El módulo inicial del curso, denominado "Introducción al curso" es más una gu
 - Estructura de el curso técnico virtual de DevOps.
 - Componentes de los módulos del curso.
 - Los requerimientos previos a cumplir previo a iniciar el **Módulo 1**.
+
+## Temas :book:
+
+- [:one: Introducción al curso](../introduccion-al-curso)
+- [:two: Audiencia objetivo](../audiencia-objetivo)

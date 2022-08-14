@@ -47,7 +47,7 @@
 #  name = "Get Started"
 #  weight = 30
 #  identifier = "get-started"
-#  url = "/docs/prologue/introduction/"
+#  url = "/docs/antes-de-empezar/bienvenida/"
 
 #[[main]]
 #  name = "Quick Start"

@@ -32,12 +32,12 @@ Conocer sobre [DevOps](../../glosario/terminos-generales.md#devops) y todo lo qu
 
 ## Temas :book:
 
-- [:one: Introducción a DevOps](introduccion-a-devops.md)
-- [:two: Metodologías ágiles](principios-culturales.md)
-- [:three: Principios culturales](principios-culturales.md)
-- [:four: Personas y cultura](personas-y-cultura.md)
-- [:five: Procesos y prácticas](procesos-y-practicas.md)
-- [:six: Herramientas y automatización](herramientas-y-automatizacion.md)
+- [:one: Introducción a DevOps](../introduccion-a-devops)
+- [:two: Metodologías ágiles](../principios-culturales)
+- [:three: Principios culturales](../principios-culturales)
+- [:four: Personas y cultura](../personas-y-cultura)
+- [:five: Procesos y prácticas](../procesos-y-practicas)
+- [:six: Herramientas y automatización](../herramientas-y-automatizacion)
 
 ## Lecturas adicionales :notebook:
 
