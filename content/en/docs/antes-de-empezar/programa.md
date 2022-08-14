@@ -12,7 +12,6 @@ menu:
 weight: 12
 toc: true
 ---
-<!-- markdownlint-disable MD024 -->
 
 ## Módulo 0 - Introducción a la base de conocimiento
 

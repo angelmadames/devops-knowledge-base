@@ -1,5 +1,5 @@
 ---
-title : "Herramientas de entrega continua"
+title : "Herramientas de CD"
 description: ""
 lead: ""
 date: 2022-08-14T08:48:45+00:00
