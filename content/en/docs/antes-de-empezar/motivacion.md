@@ -30,3 +30,6 @@ Incluso con compañeros y colegas del área de TI, DevOps no era más que algo "
 Lo cierto es que, personalmente, he encontrado pasión en lo que representa DevOps como metodología y como rol, y considerando el hecho de que me gusta compartir el conocimiento que tengo y voy adquieriendo, ¿Por qué no combinar ambas cosas?
 
 Y así surgió el "Curso de DevOps" aquí descrito.
+
+<!-- Referencias -->
+[Soluciones GBH]: ../../referencias/enlaces#gbh

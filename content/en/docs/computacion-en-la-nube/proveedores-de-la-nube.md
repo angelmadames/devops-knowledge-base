@@ -75,4 +75,3 @@ Al igual que AWS y Azure, [Google Cloud Platform] proporciona proporciona [SaaS]
 [IaaS]: ../../referencias/enlaces#infrastructure-as-a-service-iaas
 [PaaS]: ../../referencias/enlaces#platform-as-a-service-paas
 [SaaS]: ../../referencias/enlaces#software-as-a-service-saas
-[FaaS]: ../../referencias/enlaces#function-as-a-service-faas

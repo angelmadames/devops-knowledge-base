@@ -54,7 +54,7 @@ volumes:
 
 ## Funcionalidades
 
-Las características de Compose que lo hacen efectivo son:
+Las [funcionalidades de Compose][Docker Compose Features] que lo hacen efectivo son:
 
 - Múltiples entornos aislados en un solo host
 - Conservar datos de volumen cuando se crean contenedores

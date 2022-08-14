@@ -79,7 +79,7 @@ En sentido general, esta métrica debe permanecer en porcentajes bajos para cons
 
 ### Utilización de memoria
 
-La métrica de uso de memoria es una estadística de uso promedio derivada del porcentaje de memoria disponible en uso en un momento dado, promediado durante el intervalo de informe.
+La métrica de [uso de memoria][Memory utilization] es una estadística de uso promedio derivada del porcentaje de memoria disponible en uso en un momento dado, promediado durante el intervalo de informe.
 
 Cuando un host utiliza el 100% de su memoria disponible, ya no puede aceptar ni atender más solicitudes.
 

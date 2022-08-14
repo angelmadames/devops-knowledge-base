@@ -40,7 +40,7 @@ Las notas de la versión son más fáciles de digerir cuando se dividen en secci
 
 ### Versionado semántico
 
-Dado un número de versión `MAYOR.MENOR.PARCHE`, incremente:
+En el [versionado semántico][Semantic Versioning], dado un número de versión `MAYOR.MENOR.PARCHE`, se incrementa:
 
 - Versión **MAYOR** cuando realiza cambios de API incompatibles,
 - Versión **MENOR** cuando agrega funcionalidad de manera compatible con versiones anteriores, y
@@ -55,10 +55,6 @@ Ejemplos:
 10.2.5
 1.23.6
 ```
-
----
-
-[:rewind: Volver a Herramientas de CD](04-herramientas-de-cd.md) | [:arrow_down: Inicio del módulo](../README.md) | [Infraestructura como código :fast_forward:](../07-infraestructura-como-codigo/README.md)
 
 <!-- Referencias -->
 [Semantic Versioning]: ../../referencias/enlaces#semantic-versioning

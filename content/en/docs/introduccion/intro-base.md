@@ -117,7 +117,6 @@ Para saber cómo encontrar respuestas, debes:
 [Programa]: ../PROGRAMA.md
 [AWS]: ../../referencias/enlaces#aws
 [Free Tier]: ../../referencias/enlaces#aws-free-tier
-[Soluciones GBH]: ../../referencias/enlaces#gbh
 [WSL]: ../../referencias/enlaces#wsl
 [Ubuntu]: ../../referencias/enlaces#ubuntu
 [Dunning-Kruger]: ../../referencias/enlaces#dunning-kruger

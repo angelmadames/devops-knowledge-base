@@ -183,7 +183,7 @@ toc: true
 ### [Cloud Service Providers]
 ### [Pay As You Go]
 ### [Repository]
-### [IEEE 29148]
+### [IEEE 15288]
 ### [Kernel]
 ### [Namespaces]
 ### [REST API]
@@ -210,7 +210,7 @@ toc: true
 [Cloud Service Providers]: https://www.techtarget.com/searchitchannel/definition/cloud-service-provider-cloud-provider
 [Pay As You Go]: https://www.techtarget.com/searchstorage/definition/pay-as-you-go-cloud-computing-PAYG-cloud-computing
 [Repository]: https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository
-[IEEE 29148]: https://www.iso.org/standard/72089.html
+[IEEE 15288]: https://www.iso.org/standard/63711.html
 [Kernel]: https://www.techtarget.com/searchdatacenter/definition/kernel
 [Namespaces]: https://techterms.com/definition/namespace
 [REST API]: https://www.redhat.com/en/topics/api/what-is-a-rest-api
@@ -314,6 +314,10 @@ toc: true
 ### [DataDog]
 ### [Nagios]
 ### [New Relic]
+### [Kubernetes]
+### [Docker Swarm]
+### [Apache Mesos]
+### [Nomad]
 
 <!-- Enlaces -->
 [AWS]: https://aws.amazon.com
