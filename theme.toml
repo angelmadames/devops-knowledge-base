@@ -1,0 +1,14 @@
+name = "DevOps KB"
+license = "MIT"
+licenselink = "https://github.com/angelmadames/base-de-conocimiento-devops/blob/master/LICENSE"
+description = "Amplia base de conocimientos sobre DevOps en formato académico."
+
+homepage = "https://github.com/angelmadames/base-de-conocimiento-devops"
+demosite = ""
+
+tags = ["devops", "operations", "development", "culture", "agile", "continuous integration", "continuous delivery", "devsecops"]
+features = ["virtual course", "course program", "communities", "dark mode"]
+
+[author]
+  name = "Angel M. Adames"
+  homepage = "https://angeladames.com"
