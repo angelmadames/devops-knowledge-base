@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "fundamentos-de-devops"
-weight: 204
+weight: 205
 toc: true
 ---
 <!-- markdownlint-disable MD026 -->
@@ -74,5 +74,5 @@ Este principio implica comprender las necesidades de los clientes y crear produc
 Los equipos no deben "construir en una burbuja" o crear software basado en suposiciones sobre cómo los consumidores usarán el software. Más bien, los equipos de DevOps deben tener una comprensión [holística][holismo] del producto, desde la creación hasta la implementación.
 
 <!-- Referencias -->
-[holismo]: ../../referencias/README.md#holismo
-[DevOps Principles]: ../../referencias/README.md#devops-principles
+[holismo]: ../../referencias/enlaces#holismo
+[DevOps Principles]: ../../referencias/enlaces#devops-principles

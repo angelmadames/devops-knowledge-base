@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "introduccion"
-weight: 102
+weight: 103
 toc: true
 ---
 <!-- markdownlint-disable MD026 -->
@@ -37,9 +37,9 @@ Para este curso, se recomienda que se tenga previa experiencia en roles similare
 - Fundamentos de redes de información y del funcionamiento de la web ([HTTP], [DNS])
 
 <!-- Referencias -->
-[Administrador de Sistemas]: ../../referencias/README.md#descripcion-de-puesto-administrador-de-sistemas
-[Ingeniero de Software]: ../../referencias/README.md#descripcion-de-puesto-ingeniero-de-software
-[CLI]: ../../referencias/README.md#cli
+[Administrador de Sistemas]: ../../referencias/enlaces#descripcion-de-puesto-administrador-de-sistemas
+[Ingeniero de Software]: ../../referencias/enlaces#descripcion-de-puesto-ingeniero-de-software
+[CLI]: ../../referencias/enlaces#cli
 [Linux terminal]: ../referencias/README.MD#linux-terminal
 [HTTP]: ../referencias/README.MD#http
 [DNS]: ../referencias/README.MD#dns
