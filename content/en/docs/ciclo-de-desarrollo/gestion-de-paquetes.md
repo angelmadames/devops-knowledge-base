@@ -29,7 +29,7 @@ Una dependencia puede ser tan pequeña y simple como puede ser grande y compleja
 
 ## Gestor de paquetes
 
-El gestor de paquetes es una herramienta de software que proporciona un método para instalar, manipular, o eliminar dependencias (también denominadas `paquetes`).
+El [gestor de paquetes][Package management basics] es una herramienta de software que proporciona un método para instalar, manipular, o eliminar dependencias (también denominadas `paquetes`).
 
 En teoría, es posible no utilizar un gestor de paquetes, y descargar y almacenar manualmente las dependencias de su proyecto, pero un gestor de paquetes abstraerías estas complejidades.
 

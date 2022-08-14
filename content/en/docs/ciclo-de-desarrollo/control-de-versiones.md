@@ -17,7 +17,7 @@ Cuando se trabaja en el desarrolla de un sistema, es casi seguro que varias pers
 
 Entonces la pregunta resulta: ¿Cómo pueden trabajar varias personas al mismo tiempo un mismo código fuente, sin que estos cambios entren en conflictos entre sí?
 
-La respuesta es control de versiones.
+La respuesta es [control de versiones][Control de versiones].
 
 El control de versiones es la práctica de rastrear y administrar los cambios en el código del software, esto ayuda a los equipos a rastrear cada cambio individual y a tener un historial que se pueda referenciar.
 
@@ -29,7 +29,7 @@ En este tema abundaremos un poco sobre los sistemas de control de versiones y ve
 
 ## Sistema de control de versiones
 
-Un sistema de control de versiones (`VCS`) es una utilidad de software que rastrea y administra los cambios en un sistema de archivos. Es lo que permite integrar utilidades de colaboración a la práctica fundamental de control de versiones.
+Un [sistema de control de versiones][Software de control de versiones] (`VCS`) es una utilidad de software que rastrea y administra los cambios en un sistema de archivos. Es lo que permite integrar utilidades de colaboración a la práctica fundamental de control de versiones.
 
 En el ámbito de los archivos de código fuente individuales, un VCS rastreará las adiciones, eliminaciones y modificaciones de las líneas de texto dentro de ese archivo.
 

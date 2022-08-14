@@ -15,7 +15,7 @@ toc: true
 
 ## Definición
 
-El ciclo de vida de desarrollo de software (SDLC) no es más que una metodología con procesos claramente definidos para crear software.
+El [ciclo de vida de desarrollo de software (SDLC)][IEEE 15288] no es más que una metodología con procesos claramente definidos para crear software.
 
 Debido a su similitud con los métodos científicos de investigación, es un proceso que promete producir software de **alta calidad** en el **menor tiempo posible** reduciendo su impacto en **los costos**. En otras palabras, es un proceso **costo-efectivo** de desarrollo.
 
@@ -62,5 +62,5 @@ Agile utiliza un enfoque adaptativo donde no hay una planificación detallada y 
 La interacción con el cliente es la columna vertebral de esta metodología Agile, y la comunicación abierta con documentación mínima son las características típicas del entorno de desarrollo Agile.
 
 <!-- Referencias -->
-[IEEE 29148]: ../../referencias/enlaces#ieee-29148
+[IEEE 15288]: ../../referencias/enlaces#ieee-15288
 [Agile SDLC]: ../../referencias/enlaces#agile-sdlc

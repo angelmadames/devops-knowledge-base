@@ -36,7 +36,7 @@ Según la documentación oficial de [Docker]:
 
 ## Arquitectura de Docker
 
-Docker utiliza una [arquitectura cliente-servidor]. El cliente de Docker se comunica con el daemon, que hace el trabajo pesado de **crear**, **ejecutar** y **distribuir** los contenedores.
+Docker utiliza una [arquitectura cliente-servidor]. El cliente de Docker se comunica con el [daemon], que hace el trabajo pesado de **crear**, **ejecutar** y **distribuir** los contenedores.
 
 El cliente y el daemon de Docker pueden ejecutarse en el mismo sistema, o puede conectar un cliente a un daemon de remoto. El cliente y el daemon se comunican mediante una [REST API], a través de sockets UNIX o una interfaz de red.
 

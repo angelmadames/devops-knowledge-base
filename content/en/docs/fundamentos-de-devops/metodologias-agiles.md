@@ -16,7 +16,7 @@ toc: true
 
 ## ¿Qué es ágil?
 
-De forma simple, Ágil es un enfoque [iterativo] para la gestión de proyectos y el desarrollo de software que ayuda a los equipos a entregar valor a sus clientes más rápido.
+De forma simple, [Ágil][Agile Methodologies] es un enfoque [iterativo] para la gestión de proyectos y el desarrollo de software que ayuda a los equipos a entregar valor a sus clientes más rápido.
 
 En lugar de realizar un único despliegue a producción, como en la [metodología de cascada], un equipo ágil entrega el trabajo en incrementos pequeños pero consumibles. Los requerimientos, planes de acción y resultados se evalúan continuamente para que los equipos tengan un mecanismo natural para dar respuesta a cambios.
 
@@ -163,7 +163,7 @@ Es la lista de elementos, historias de usuarios o correcciones de errores, selec
 
 #### Sprint goal
 
-También conocido como **Increment**. El producto final utilizable de un sprint. Generalmente se muestra el "incremento" durante la demostración de final de sprint, donde el equipo muestra lo que se completó en el sprint.
+También conocido como **[Increment][Increment]**. El producto final utilizable de un sprint. Generalmente se muestra el "incremento" durante la demostración de final de sprint, donde el equipo muestra lo que se completó en el sprint.
 
 En ágil hay cabida para las variaciones, incluso dentro de los artefactos. Por eso es importante permanecer abierto a la evolución de la forma en que mantiene incluso estos artefactos.
 
@@ -233,7 +233,6 @@ La retrospectiva es donde el equipo se reúne para documentar y discutir qué fu
 
 <!-- Referencias -->
 [iterativo]: ../../referencias/enlaces#iterativo
-[heuristico]: ../../referencias/enlaces#heuristico
 [Scrum]: ../../referencias/enlaces#scrum
 [Kanban]: ../../referencias/enlaces#kanban
 [Lean Agile]: ../../referencias/enlaces#lean-agile
