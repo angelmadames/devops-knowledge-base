@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "introduccion"
-weight: 101
+weight: 102
 toc: true
 ---
 <!-- markdownlint-disable MD026 -->
@@ -115,11 +115,11 @@ Para saber cómo encontrar respuestas, debes:
 
 <!-- Referencias -->
 [Programa]: ../PROGRAMA.md
-[AWS]: ../../referencias/README.md#aws
-[Free Tier]: ../../referencias/README.md#aws-free-tier
-[Soluciones GBH]: ../../referencias/README.md#gbh
-[WSL]: ../../referencias/README.md#wsl
-[Ubuntu]: ../../referencias/README.md#ubuntu
-[Dunning-Kruger]: ../../referencias/README.md#dunning-kruger
-[Stronger brain activity after writing on paper than on smartphone]: ../../referencias/README.md#stronger-brain-activity-after-writing-on-paper-than-on-smartphone
-[The Science of Taking a Break]: ../../referencias/README.md#the-science-of-taking-a-break
+[AWS]: ../../referencias/enlaces#aws
+[Free Tier]: ../../referencias/enlaces#aws-free-tier
+[Soluciones GBH]: ../../referencias/enlaces#gbh
+[WSL]: ../../referencias/enlaces#wsl
+[Ubuntu]: ../../referencias/enlaces#ubuntu
+[Dunning-Kruger]: ../../referencias/enlaces#dunning-kruger
+[Stronger brain activity after writing on paper than on smartphone]: ../../referencias/enlaces#stronger-brain-activity-after-writing-on-paper-than-on-smartphone
+[The Science of Taking a Break]: ../../referencias/enlaces#the-science-of-taking-a-break

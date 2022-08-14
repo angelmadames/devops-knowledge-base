@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "fundamentos-de-devops"
-weight: 201
+weight: 202
 toc: true
 ---
 <!-- markdownlint-disable MD026 -->
@@ -125,13 +125,13 @@ Un concepto erróneo sobre DevOps es "un conjunto de herramientas". Aunque si bi
 
 <!-- Referencias -->
 [Glosario - DevOps]: ../../glosario/terminos-generales.md#devops
-[Método de investigación]: ../../referencias/README.md#metodo-de-investigacion
-[IoT]: ../../referencias/README.md#iot
-[DevOpsDays]: ../../referencias/README.md#devopsdays
-[Twitter]: ../../referencias/README.md#twitter
-[hashtag]: ../../referencias/README.md#hashtag
-[The Short History of DevOps]: ../../referencias/README.md#the-short-history-of-devops
-[SDLC]: ../../referencias/README.md#sdlc
-[Software Development]: ../../referencias/README.md#software-development
-[Software Engineering]: ../../referencias/README.md#software-engineering
-[IT Operations]: ../../referencias/README.md#it-operations
+[Método de investigación]: ../../referencias/enlaces#metodo-de-investigacion
+[IoT]: ../../referencias/enlaces#iot
+[DevOpsDays]: ../../referencias/enlaces#devopsdays
+[Twitter]: ../../referencias/enlaces#twitter
+[hashtag]: ../../referencias/enlaces#hashtag
+[The Short History of DevOps]: ../../referencias/enlaces#the-short-history-of-devops
+[SDLC]: ../../referencias/enlaces#sdlc
+[Software Development]: ../../referencias/enlaces#software-development
+[Software Engineering]: ../../referencias/enlaces#software-engineering
+[IT Operations]: ../../referencias/enlaces#it-operations

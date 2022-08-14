@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "fundamentos-de-devops"
-weight: 205
+weight: 207
 toc: true
 ---
 <!-- markdownlint-disable MD026 -->
@@ -98,9 +98,9 @@ La seguridad integrada en DevOps también es también visto mayormente como [Dev
 DevSecOps significa pensar en la seguridad de las aplicaciones y la infraestructura desde el principio. También significa automatizar algunas puertas de seguridad para evitar que el flujo de trabajo de DevOps se ralentice. Seleccionar las herramientas adecuadas para integrar continuamente la seguridad, como acordar un entorno de desarrollo integrado (IDE) con características de seguridad, puede ayudar a cumplir estos objetivos. Sin embargo, la seguridad efectiva de DevOps requiere más que nuevas herramientas: se basa en los cambios culturales de DevOps para integrar el trabajo de los equipos de seguridad más temprano que tarde.
 
 <!-- Referencias -->
-[git]: ../../referencias/README.md#git
-[Continuous Integration]: ../../referencias/README.md#continuous-integration
-[Continuous Delivery]: ../../referencias/README.md#continuous-delivery
-[Continuous Testing]: ../../referencias/README.md#continuous-testing
-[Monitoring and Alerting]: ../../referencias/README.md#monitoring-and-alerting
-[DevSecOps]: ../../referencias/README.md#devsecops
+[git]: ../../referencias/enlaces#git
+[Continuous Integration]: ../../referencias/enlaces#continuous-integration
+[Continuous Delivery]: ../../referencias/enlaces#continuous-delivery
+[Continuous Testing]: ../../referencias/enlaces#continuous-testing
+[Monitoring and Alerting]: ../../referencias/enlaces#monitoring-and-alerting
+[DevSecOps]: ../../referencias/enlaces#devsecops

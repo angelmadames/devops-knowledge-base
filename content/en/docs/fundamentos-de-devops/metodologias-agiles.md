@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "fundamentos-de-devops"
-weight: 202
+weight: 203
 toc: true
 ---
 <!-- markdownlint-disable MD026 -->
@@ -232,22 +232,22 @@ Esta reunión de revisión también es cuando el propietario del producto vuelve
 La retrospectiva es donde el equipo se reúne para documentar y discutir qué funcionó y qué no funcionó en un sprint, un proyecto, personas o relaciones, herramientas o incluso para ciertas ceremonias. La idea es crear un lugar donde el equipo pueda concentrarse en lo que salió bien y lo que debe mejorarse para la próxima vez, y menos en lo que salió mal.
 
 <!-- Referencias -->
-[iterativo]: ../../referencias/README.md#iterativo
-[heuristico]: ../../referencias/README.md#heuristico
-[Scrum]: ../../referencias/README.md#scrum
-[Kanban]: ../../referencias/README.md#kanban
-[Lean Agile]: ../../referencias/README.md#lean-agile
-[Extreme Programming]: ../../referencias/README.md#extreme-programming
-[Scrumban]: ../../referencias/README.md#scrumban
-[Agile Manifesto]: ../../referencias/README.md#agile-manifesto
-[Metodología de Cascada]: ../../referencias/README.md#metodologia-de-cascada
-[Principles behind the Agile Manifesto]: ../../referencias/README.md#principles-behind-the-agile-manifesto
-[Scrum team]: ../../referencias/README.md#scrum-team
-[Product owner]: ../../referencias/README.md#product-owner
-[Scrum master]: ../../referencias/README.md#scrum-master
-[Developers]: ../../referencias/README.md#developers
-[Sprint backlog]: ../../referencias/README.md#sprint-backlog
-[Agile Methodologies]: ../../referencias/README.md#agile-methodologies
-[Product backlog]: ../../referencias/README.md#product-backlog
-[Increment]: ../../referencias/README.md#increment
-[Sprint]: ../../referencias/README.md#sprint
+[iterativo]: ../../referencias/enlaces#iterativo
+[heuristico]: ../../referencias/enlaces#heuristico
+[Scrum]: ../../referencias/enlaces#scrum
+[Kanban]: ../../referencias/enlaces#kanban
+[Lean Agile]: ../../referencias/enlaces#lean-agile
+[Extreme Programming]: ../../referencias/enlaces#extreme-programming
+[Scrumban]: ../../referencias/enlaces#scrumban
+[Agile Manifesto]: ../../referencias/enlaces#agile-manifesto
+[Metodología de Cascada]: ../../referencias/enlaces#metodologia-de-cascada
+[Principles behind the Agile Manifesto]: ../../referencias/enlaces#principles-behind-the-agile-manifesto
+[Scrum team]: ../../referencias/enlaces#scrum-team
+[Product owner]: ../../referencias/enlaces#product-owner
+[Scrum master]: ../../referencias/enlaces#scrum-master
+[Developers]: ../../referencias/enlaces#developers
+[Sprint backlog]: ../../referencias/enlaces#sprint-backlog
+[Agile Methodologies]: ../../referencias/enlaces#agile-methodologies
+[Product backlog]: ../../referencias/enlaces#product-backlog
+[Increment]: ../../referencias/enlaces#increment
+[Sprint]: ../../referencias/enlaces#sprint
