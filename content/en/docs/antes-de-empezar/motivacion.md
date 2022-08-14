@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "antes-de-empezar"
-weight: 101
+weight: 11
 toc: true
 ---
 

@@ -1,5 +1,5 @@
 ---
-title : "Introducción al módulo"
+title : "Introducción al Módulo 00"
 description: ""
 lead: ""
 date: 2022-08-14T08:48:45+00:00
@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "introduccion"
-weight: 200
+weight: 100
 toc: true
 ---
 <!-- markdownlint-disable MD026 -->

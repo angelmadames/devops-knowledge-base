@@ -9,7 +9,7 @@ images: []
 menu:
   docs:
     parent: "antes-de-empezar"
-weight: 102
+weight: 12
 toc: true
 ---
 <!-- markdownlint-disable MD024 -->
