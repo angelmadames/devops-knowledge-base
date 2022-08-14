@@ -2,7 +2,7 @@
   name = "Prologue"
   weight = 10
   identifier = "prologue"
-  url = "/docs/prologue/"
+  url = "docs/antes-de-empezar"
 
 [[docs]]
   name = "Help"
@@ -30,8 +30,7 @@
 
 [[main]]
   name = "Docs"
-  url = "/docs/prologue/introduction/"
-# url = "/docs/1.0/prologue/introduction/"
+  url = "docs/antes-de-empezar/bienvenida"
   weight = 10
 
 # [[main]]
@@ -48,7 +47,7 @@
 #  name = "Get Started"
 #  weight = 30
 #  identifier = "get-started"
-#  url = "/docs/prologue/introduction/"
+#  url = "/docs/antes-de-empezar/bienvenida/"
 
 #[[main]]
 #  name = "Quick Start"
