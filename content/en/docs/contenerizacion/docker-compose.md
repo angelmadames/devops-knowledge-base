@@ -120,11 +120,11 @@ Compose se ha centrado tradicionalmente en los flujos de trabajo de desarrollo y
 > **NOTA DE INTERÉS**: Para más información sobre Compose en producción, ver [Compose In Production]. En este curso no indagaremos en este contenido debido a que nos enfocaremos en los orquestadores de contenedores.
 
 <!-- Referencias -->
-[Compose]: ../../referencias/README.md#docker-compose
-[Docker Compose Features]: ../../referencias/README.md#docker-compose-features
-[Docker Compose Common Use Cases]: ../../referencias/README.md#docker-compose-common-use-cases
-[Docker Compose Command]: ../../referencias/README.md#docker-compose-command
-[Docker Composer Environment Variables]: ../../referencias/README.md#docker-compose-environment-variables
-[Compose File]: ../../referencias/README.md#docker-compose-file
-[Compose In Production]: ../../referencias/README.md#docker-compose-in-production
-[COMPOSE_PROJECT_NAME]: ../../referencias/README.md#COMPOSE_PROJECT_NAME
+[Compose]: ../../referencias/enlaces#docker-compose
+[Docker Compose Features]: ../../referencias/enlaces#docker-compose-features
+[Docker Compose Common Use Cases]: ../../referencias/enlaces#docker-compose-common-use-cases
+[Docker Compose Command]: ../../referencias/enlaces#docker-compose-command
+[Docker Composer Environment Variables]: ../../referencias/enlaces#docker-compose-environment-variables
+[Compose File]: ../../referencias/enlaces#docker-compose-file
+[Compose In Production]: ../../referencias/enlaces#docker-compose-in-production
+[COMPOSE_PROJECT_NAME]: ../../referencias/enlaces#COMPOSE_PROJECT_NAME

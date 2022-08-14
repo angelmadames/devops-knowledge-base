@@ -133,8 +133,8 @@ Este conjunto de problemas se relaciona con la orquestación de un sistema distr
 Uno de estos, es **Kubernetes**, del cual hablaremos más a detalle en el [Módulo 07](../07-infraestructura-como-codigo/README.md).
 
 <!-- Referencias -->
-[kernel]: ../../referencias/README.md#kernel
-[namespaces]: ../../referencias/README.md#namespaces
-[LXC]: ../../referencias/README.md#lxc
-[Google]: ../../referencias/README.md#google
-[cgroups]: ../../referencias/README.md#cgroups
+[kernel]: ../../referencias/enlaces#kernel
+[namespaces]: ../../referencias/enlaces#namespaces
+[LXC]: ../../referencias/enlaces#lxc
+[Google]: ../../referencias/enlaces#google
+[cgroups]: ../../referencias/enlaces#cgroups

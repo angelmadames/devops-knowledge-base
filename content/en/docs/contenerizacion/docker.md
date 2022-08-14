@@ -89,13 +89,13 @@ De forma predeterminada, un contenedor está relativamente bien aislado de otros
 Un contenedor se define por su imagen, así como por cualquier opción de configuración que le proporcione al crearlo o iniciarlo. Cuando se elimina un contenedor, desaparece cualquier cambio en su estado que no esté almacenado en el almacenamiento persistente.
 
 <!-- Referencias -->
-[daemon]: ../../referencias/README.md#daemon
-[arquitectura cliente-servidor]: ../../referencias/README.md#client-server-architecture
-[Docker]: ../../referencias/README.md#docker
-[Docker Engine]: ../../referencias/README.md#docker-engine
-[Docker Desktop]: ../../referencias/README.md#docker-desktop
-[Docker Compose]: ../../referencias/README.md#docker-compose
-[Docker Hub]: ../../referencias/README.md#docker-hub
-[OCI]: ../../referencias/README.md#oci
-[REST API]: ../../referencias/README.md#rest-api
-[Apache]: ../../referencias/README.md#apache
+[daemon]: ../../referencias/enlaces#daemon
+[arquitectura cliente-servidor]: ../../referencias/enlaces#client-server-architecture
+[Docker]: ../../referencias/enlaces#docker
+[Docker Engine]: ../../referencias/enlaces#docker-engine
+[Docker Desktop]: ../../referencias/enlaces#docker-desktop
+[Docker Compose]: ../../referencias/enlaces#docker-compose
+[Docker Hub]: ../../referencias/enlaces#docker-hub
+[OCI]: ../../referencias/enlaces#oci
+[REST API]: ../../referencias/enlaces#rest-api
+[Apache]: ../../referencias/enlaces#apache
