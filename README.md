@@ -26,30 +26,30 @@ El requisitio primordial es tener una base académica y profesional avanzada en 
 
 Si tienes preguntas sobre este curso, puede enviar un correo electrónico a los correos listados más arriba e incluye en el título `"[DevOps KB]"`.
 
-# Recursos de apoyo
+## Recursos de apoyo
 
 Estas fueras todas las herramientas que sirvieron como recursos de apoyo en la creación de este curso, catagorizadas por su utilidad.
 
-## Sistema de control de versiones
+### Sistema de control de versiones
 
 - [GitHub]
 
-## Editor de texto y código
+### Editor de texto y código
 
 - [VSCode]
 - [Markdown]
   - [GitHub Flavored Markdown Spec]
 
-## Organización y planifación
+### Organización y planifación
 
 - [Notion]
 
-## Diagramación
+### Diagramación
 
 - [Cawemo]
 - [Adobe InDesign]
 
-## Visuales
+### Visuales
 
 - [Whimsical]
 - [Adobe Photoshop]
