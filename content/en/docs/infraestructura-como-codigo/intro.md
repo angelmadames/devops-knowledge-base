@@ -38,9 +38,11 @@ La infraestructura como código es un principio bastante práctico de la convers
 - [:five: Aprovisionamiento de infraestructura](aprovisionamiento-de-infraestructura)
 - [:six: Introducción a Terraform](intro-a-terraform)
 
+<!--
 ## Laboratorios :microscope:
 
 - [Lab. 7.1 - Introducción a Terraform]()
+-->
 
 ## Lecturas adicionales :notebook:
 

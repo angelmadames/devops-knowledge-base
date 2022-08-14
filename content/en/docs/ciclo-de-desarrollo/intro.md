@@ -37,6 +37,8 @@ En este módulo, estaremos conversando sobre los elementos principales del ciclo
 - [:two: Control de versiones](../control-de-versiones)
 - [:three: Gestión de paquetes](../gestion-de-paquetes)
 
+<!--
 ## Laboratorios :microscope:
 
 - [Lab. 3.1 - Cómo usar git]()
+-->

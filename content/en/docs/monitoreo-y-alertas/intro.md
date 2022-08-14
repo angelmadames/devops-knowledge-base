@@ -35,9 +35,11 @@ Cuando ya se alcanza un nivel de madurez apropiado a nivel de operaciones, se de
 - [:three: Gestión de logs](../gestion-de-logs)
 - [:four: Observabilidad](../observabilidad)
 
+<!--
 ## Laboratorios :microscope:
 
 - [Lab. 8.1 - Introducción a Prometeus y Grafana]()
+-->
 
 ## Lecturas adicionales :notebook:
 
