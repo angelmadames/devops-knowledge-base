@@ -15,73 +15,73 @@ toc: true
 
 ## Módulo 0 - Introducción a la base de conocimiento
 
-- [:one: Introducción el curso](00-introduccion-al-curso/01-introduccion-al-curso.md)
-- [:two: Audiencia Objetivo](00-introduccion-al-curso/02-audiencia-objetivo.md)
+- [:one: Introducción el curso](../../introduccion/intro)
+- [:two: Audiencia Objetivo](../../introduccion/audiencia-objetivo)
 
 ## Módulo 1 - Fundamentos de DevOps
 
-- [:one: Introducción a DevOps](01-fundamentos-de-devops/01-introduccion-a-devops.md)
-- [:two: Metodologías ágiles](01-fundamentos-de-devops/02-metodologias-agiles.md)
-- [:three: Personas y cultura](01-fundamentos-de-devops/03-personas-y-cultura.md)
-- [:four: Principios culturales](01-fundamentos-de-devops/04-principios-culturales.md)
-- [:five: Herramientas y automatización](01-fundamentos-de-devops/05-herramientas-y-automatizacion.md)
-- [:six: Procesos y prácticas](01-fundamentos-de-devops/06-procesos-y-practicas.md)
+- [:one: Introducción a DevOps](../../fundamentos-de-devops/introduccion-a-devops)
+- [:two: Metodologías ágiles](../../fundamentos-de-devops/metodologias-agiles)
+- [:three: Personas y cultura](../../fundamentos-de-devops/personas-y-cultura)
+- [:four: Principios culturales](../../fundamentos-de-devops/principios-culturales)
+- [:five: Herramientas y automatización](../../fundamentos-de-devops/herramientas-y-automatizacion)
+- [:six: Procesos y prácticas](../../fundamentos-de-devops/procesos-y-practicas)
 
 ## Módulo 2 - Computación en la Nube
 
-- [:one: Servicios en la nube](02-computacion-en-la-nube/01-servicios-en-la-nube.md)
-- [:two: Proveedores de la nube](02-computacion-en-la-nube/02-proveedores-de-la-nube.md)
+- [:one: Servicios en la nube](../../computacion-en-la-nube/servicios-en-la-nube)
+- [:two: Proveedores de la nube](../../computacion-en-la-nube/proveedores-de-la-nube)
 
 ## Módulo 3 - Ciclo de Desarrollo de Software
 
-- [:one: Ciclo de vida de desarrollo de Software (SDLC)](03-ciclo-de-desarrollo-de-software/01-SDLC.md)
-- [:two: Control de versiones](03-ciclo-de-desarrollo-de-software/02-control-de-versiones.md)
-- [:three: Gestión de paquetes](03-ciclo-de-desarrollo-de-software/03-gestion-de-paquetes.md)
+- [:one: Ciclo de vida de desarrollo de Software (SDLC)](../../ciclo-de-desarrollo/sdlc)
+- [:two: Control de versiones](../../ciclo-de-desarrollo/control-de-versiones)
+- [:three: Gestión de paquetes](../../ciclo-de-desarrollo/gestion-de-paquetes)
 
 ## Módulo 4 - Contenerización
 
-- [:one: Contenedores](04-contenerizacion/01-contenedores.md)
-- [:two: Docker](04-contenerizacion/02-docker.md)
-- [:three: Docker Compose](04-contenerizacion/03-docker-compose.md)
+- [:one: Contenedores](../../contenerizacion/contenedores)
+- [:two: Docker](../../contenerizacion/docker)
+- [:three: Docker Compose](../../contenerizacion/docker-compose)
 
 ## Módulo 5 - Integración continua
 
-- [:one: Integración continua (CI)](05-integracion-continua/01-integracion-continua.md)
-- [:two: Pruebas de integración continua](05-integracion-continua/02-pruebas-de-integracion.md)
-- [:three: Herramientas de CI](05-integracion-continua/03-herramientas-de-ci.md)
-- [:four: Mejores prácticas de CI](05-integracion-continua/04-mejoras-practicas-de-ci.md)
+- [:one: Integración continua (CI)](../../integracion-continua/integracion-continua)
+- [:two: Pruebas de integración continua](../../integracion-continua/pruebas-de-integracion)
+- [:three: Herramientas de CI](../../integracion-continua/herramientas-de-ci)
+- [:four: Mejores prácticas de CI](../../integracion-continua/mejores-practicas-de-ci)
 
 ## Módulo 6 - Entrega continua
 
-- [:one: Entrega continua](06-entrega-continua/01-entrega-continua.md)
-- [:two: Despliegue continuo](06-entrega-continua/02-despliegue-continuo.md)
-- [:three: Estrategias de despliegue](06-entrega-continua/03-estrategias-de-despliegue.md)
-- [:four: Herramientas de despliegue continuo (CD)](06-entrega-continua/04-herramientas-de-cd.md)
-- [:five: Gestión de versiones](06-entrega-continua/05-gestion-de-versiones.md)
+- [:one: Entrega continua](../../entrega-continua/entrega-continua)
+- [:two: Despliegue continuo](../../entrega-continua/despliegue-continuo)
+- [:three: Estrategias de despliegue](../../entrega-continua/estrategias-de-despliegue)
+- [:four: Herramientas de despliegue continuo (CD)](../../entrega-continua/herramientas-de-cd)
+- [:five: Gestión de versiones](../../entrega-continua/gestion-de-versiones)
 
 ## Módulo 7 - Infraestructura como código
 
-- [:one: Administración de sistemas](07-infraestructura-como-codigo/01-administracion-de-sistemas.md)
-- [:two: Shell scripting](07-infraestructura-como-codigo/02-shell-scripting.md)
-- [:three: Gestión de la configuración](07-infraestructura-como-codigo/03-gestion-de-la-configuracion.md)
-- [:four: Orquestación de contenedores](07-infraestructura-como-codigo/04-orquestacion-de-contenedores.md)
-- [:five: Aprovisionamiento de infraestructura](07-infraestructura-como-codigo/05-aprovisionamiento-de-infraestructura.md)
-- [:six: Introducción a Terraform](07-infraestructura-como-codigo/06-intro-a-terraform.md)
+- [:one: Administración de sistemas](../../infraestructura-como-codigo/administracion-de-sistemas)
+- [:two: Shell scripting](../../infraestructura-como-codigo/shell-scripting)
+- [:three: Gestión de la configuración](../../infraestructura-como-codigo/gestion-de-la-configuracion)
+- [:four: Orquestación de contenedores](../../infraestructura-como-codigo/orquestacion-de-contenedores)
+- [:five: Aprovisionamiento de infraestructura](../../infraestructura-como-codigo/aprovisionamiento-de-infraestructura)
+- [:six: Introducción a Terraform](../../infraestructura-como-codigo/intro-a-terraform)
 
 ## Módulo 8 - Monitoreo y alertas
 
-- [:one: Monitoreo de infraestructura](08-monitoreo-y-alertas/01-monitore-de-infraestructura.md)
-- [:two: Monitoreo de aplicación](08-monitoreo-y-alertas/02-monitoreo-de-aplicacion.md)
-- [:three: Gestión de registros](08-monitoreo-y-alertas/03-gestion-de-registros.md)
-- [:four: Observabilidad](08-monitoreo-y-alertas/03-gestion-de-registros.md)
+- [:one: Monitoreo de infraestructura](../../monitoreo-y-alertas/monitoreo-de-infraestructura)
+- [:two: Monitoreo de aplicación](../../monitoreo-y-alertas/monitoreo-de-aplicacion)
+- [:three: Gestión de registros](../../monitoreo-y-alertas/gestion-de-logs)
+- [:four: Observabilidad](../../monitoreo-y-alertas/observabilidad)
 
 ## Módulo 9 - Aseguramiento de la calidad
 
-- [:one: Pruebas de software](09-aseguramiento-de-la-calidad/01-pruebas-de-software.md)
-- [:two: Pruebas automáticas](09-aseguramiento-de-la-calidad/02-pruebas-automaticas.md)
-- [:three: Pruebas de rendimiento](09-aseguramiento-de-la-calidad/03-pruebas-de-rendimiento.md)
+- [:one: Pruebas de software](../../aseguramiento-de-calidad/pruebas-de-software)
+- [:two: Pruebas automáticas](../../aseguramiento-de-calidad/pruebas-automaticas)
+- [:three: Pruebas de rendimiento](../../aseguramiento-de-calidad/pruebas-de-rendimiento)
 
 ## Módulo 10 - Seguridad continua
 
-- [:one: DevSecOps](10-seguridad-continua/01-devsecops.md)
-- [:two: Pruebas de seguridad](10-seguridad-continua/02-pruebas-de-seguridad.md)
+- [:one: DevSecOps](../../seguridad-continua/devsecops)
+- [:two: Pruebas de seguridad](../../seguridad-continua/pruebas-de-seguridad)
