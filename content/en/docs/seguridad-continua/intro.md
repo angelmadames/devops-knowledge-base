@@ -28,8 +28,8 @@ Mucho se ha hablado sobre la seguridad de información y su importancia en el ci
 
 ## Temas :book:
 
-- [:one: DevSecOps](..-devsecops)
-- [:two: Pruebas de seguridad](..-pruebas-de-seguridad)
+- [:one: DevSecOps](../devsecops)
+- [:two: Pruebas de seguridad](../pruebas-de-seguridad)
 
 ## Lecturas adicionales :notebook:
 
