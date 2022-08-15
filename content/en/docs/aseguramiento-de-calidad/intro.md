@@ -29,9 +29,9 @@ A pesar de que el aseguramiento de la calidad de software (Software QA) en esenc
 
 ## Temas :book:
 
-- [:one: Pruebas de software](01-pruebas-de-software.md)
-- [:two: Pruebas automáticas](02-pruebas-automaticas.md)
-- [:three: Pruebas de rendimiento](03-pruebas-de-rendimiento.md)
+- [:one: Pruebas de software](../pruebas-de-software)
+- [:two: Pruebas automáticas](../pruebas-automaticas)
+- [:three: Pruebas de rendimiento](../pruebas-de-rendimiento)
 
 ## Lecturas adicionales :notebook:
 
