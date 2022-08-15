@@ -30,5 +30,5 @@ El módulo inicial del curso, denominado "Introducción al curso" es más una gu
 
 ## Temas :book:
 
-- [:one: Introducción al curso](../introduccion-al-curso)
+- [:one: Introducción al curso](../intro-base)
 - [:two: Audiencia objetivo](../audiencia-objetivo)
