@@ -31,12 +31,12 @@ La infraestructura como código es un principio bastante práctico de la convers
 
 ## Temas :book:
 
-- [:one: Administración de sistemas](administracion-de-sistemas)
-- [:two: Shell scripting](shell-scripting)
-- [:three: Gestión de la configuración](gestion-de-la-configuracion)
-- [:four: Orquestación de contenedores](orquestacion-de-contenedores)
-- [:five: Aprovisionamiento de infraestructura](aprovisionamiento-de-infraestructura)
-- [:six: Introducción a Terraform](intro-a-terraform)
+- [:one: Administración de sistemas](../administracion-de-sistemas)
+- [:two: Shell scripting](../shell-scripting)
+- [:three: Gestión de la configuración](../gestion-de-la-configuracion)
+- [:four: Orquestación de contenedores](../orquestacion-de-contenedores)
+- [:five: Aprovisionamiento de infraestructura](../aprovisionamiento-de-infraestructura)
+- [:six: Introducción a Terraform](../intro-a-terraform)
 
 <!--
 ## Laboratorios :microscope:
