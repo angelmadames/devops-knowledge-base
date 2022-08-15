@@ -33,7 +33,7 @@ En este módulo, estaremos conversando sobre los elementos principales del ciclo
 
 ## Temas :book:
 
-- [:one: Ciclo de vida de desarrollo de Software (SDLC)](../SDLC)
+- [:one: Ciclo de vida de desarrollo de Software (SDLC)](../sdlc)
 - [:two: Control de versiones](../control-de-versiones)
 - [:three: Gestión de paquetes](../gestion-de-paquetes)
 
