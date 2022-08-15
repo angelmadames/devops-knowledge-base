@@ -30,11 +30,11 @@ En el módulo de entrega continua veremos a detalle en qué exactamente consiste
 
 ## Temas :book:
 
-- [:one: Entrega continua](01-entrega-continua.md)
-- [:two: Despliegue continuo](02-despliegue-continuo.md)
-- [:three: Estrategias de despliegue](03-estrategias-de-despliegue.md)
-- [:four: Herramientas](04-herramientas.md)
-- [:five: Gestión de versiones](05-gestion-de-versiones.md)
+- [:one: Entrega continua](../entrega-continua)
+- [:two: Despliegue continuo](../despliegue-continuo)
+- [:three: Estrategias de despliegue](../estrategias-de-despliegue)
+- [:four: Herramientas](../herramientas-de-cd)
+- [:five: Gestión de versiones](../gestion-de-versiones)
 
 ## Lecturas adicionales :notebook:
 
