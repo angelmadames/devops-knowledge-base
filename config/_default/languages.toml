@@ -1,7 +1,14 @@
+[es]
+  languageName = "Spanish"
+  contentDir = "content/es"
+  weight = 10
+  [es.params]
+    languageISO = "ES"
+
 [en]
   languageName = "English"
   contentDir = "content/en"
-  weight = 10
+  weight = 15
   [en.params]
     languageISO = "EN"
     languageTag = "en-US"
