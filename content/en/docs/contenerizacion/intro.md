@@ -32,7 +32,7 @@ Una de las prácticas que mejor demuestra el enfoque cultural y técnico que Dev
 ## Temas :book:
 
 - [:one: Contenedores](../contenedores)
-- [:two: Docker](../docker.md)
+- [:two: Docker](../docker)
 - [:three: Docker Compose](../docker-compose)
 
 <!--

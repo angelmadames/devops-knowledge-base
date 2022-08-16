@@ -53,8 +53,8 @@ Este curso no utiliza de manera estricta ningún libro particular, por tanto, co
 
 <!-- Referencias -->
 
-[Motivación]: motivacion.md
-[Programa]: programa.md
+[Motivación]: ../motivacion
+[Programa]: ../programa
 [Repositorio]: https://github.com/angelmadames/base-de-conocimiento-devops
 
 [AWS]: https://aws.amazon.com
