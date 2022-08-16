@@ -66,5 +66,5 @@ El aprovisionamiento de servicios incluye la configuración de un servicio y la 
 Como ejemplo, el aprovisionamiento de [servicios en la nube][Cloud Services] es el componente de autoservicio de la computación en la nube. Los usuarios obtienen [servicios en la nube][Cloud Services] a través de un portal de autoservicio sin necesidad de la ayuda del personal de TI.
 
 <!-- Referencias -->
-[RBAC]: ./../referencias/enlaces#rbac
-[Cloud Services]: ./../referencias/enlaces#cloud-services
+[RBAC]: ../../referencias/enlaces#rbac
+[Cloud Services]: ../../referencias/enlaces#cloud-services
