@@ -109,6 +109,6 @@ La gestión de la configuración se ocupa del estado de cualquier infraestructur
 Se puede ver de estar manera: la gestión de la configuración es la configuración en un momento dado, y la gestión de cambios es el proceso para proponer, revisar, implementar y posiblemente revertir cambios en esas configuraciones.
 
 <!-- Referencias -->
-[Ansible]: ./../referencias/enlaces#ansible
-[Chef]:  ./../referencias/enlaces#chef
-[Puppet]: ./../referencias/enlaces#puppet
+[Ansible]: ../../referencias/enlaces#ansible
+[Chef]:  ../../referencias/enlaces#chef
+[Puppet]: ../../referencias/enlaces#puppet

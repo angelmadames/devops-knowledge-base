@@ -34,11 +34,9 @@ DevOps es nativo de la computación en la nube. Así que es allí donde más afi
 - [:one: Servicios en la nube](../servicios-en-la-nube)
 - [:two: Proveedores de la nube](../proveedores-de-la-nube)
 
-<!--
 ## Laboratorios :microscope:
 
-- [Lab. 2.1 - Crear una máquina virtual en AWS]()
--->
+- [Lab. 2.1 - Crear una máquina virtual en AWS](../lab-01-crear-vm-en-aws)
 
 ## Lecturas adicionales :notebook:
 
