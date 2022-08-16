@@ -55,7 +55,7 @@ docker pull busybox
 
 > :rotating_light: Dependiendo de cómo haya instalado Docker en su sistema, es posible que vea un error de permiso denegado después de ejecutar el comando anterior. Si está en una Mac, asegúrese de que el motor Docker esté funcionando. Si está en Linux, prefije los comandos de `docker` con `sudo`. Alternativamente, puede crear un [grupo de docker](https://docs.docker.com/engine/installation/linux/linux-postinstall/) para deshacerse de este problema.
 
-El comando `pull` obtiene la imagen `busybox` del [registro de docker] y la guarda en nuestro sistema. Puede usar el comando `docker images` para ver una lista de todas las imágenes en su sistema.
+El comando `pull` obtiene la imagen `busybox` del [registro de docker][Docker registry] y la guarda en nuestro sistema. Puede usar el comando `docker images` para ver una lista de todas las imágenes en su sistema.
 
 ```shell
 $ docker images

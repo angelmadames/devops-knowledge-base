@@ -130,8 +130,3 @@ Oh, vaya, hay muchas líneas que no entendemos. Pero no debemos preocuparnos, es
 ---
 
 ¡Listo! :partying_face: Has creado tu primer Dockerfile a partir de una imagen simple de `nginx` y un `index.html` propio.
-
-<!-- Referencias -->
-[Docker Install]: ../../referencias/enlaces#docker-install
-[Docker registry]: ../../referencias/enlaces#docker-hub
-[Node.js]: ../../referencias/enlaces#node.js

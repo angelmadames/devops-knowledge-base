@@ -239,6 +239,6 @@ Has realizado correctamente una `PR` y fusionado tu código con la rama principa
 [Repository]: ../../referencias/enlaces#repository
 [git]: ../../referencias/enlaces#git
 [git installation]: ../../referencias/enlaces#git-installation
-[git branch]: ../../referencias/enlaces#git-branch
+[git branches]: ../../referencias/enlaces#git-branch
 [git merge]: ../../referencias/enlaces#git-merging
 [GitHub]: ../../referencias/enlaces#github

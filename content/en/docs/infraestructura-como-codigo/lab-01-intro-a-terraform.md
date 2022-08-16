@@ -33,7 +33,7 @@ export AWS_SECRET_ACCESS_KEY=<>
 
 ## Desplegando un servidor simple
 
-El código de Terraform está escrito en un lenguaje llamado `HCL` en archivos con la extensión `.tf`. Es un lenguaje declarativo, por lo que su objetivo es describir la infraestructura que desea y Terraform descubrirá cómo crearla.
+El código de Terraform está escrito en un lenguaje llamado [HCL] en archivos con la extensión `.tf`. Es un lenguaje declarativo, por lo que su objetivo es describir la infraestructura que desea y Terraform descubrirá cómo crearla.
 
 El primer paso para usar Terraform suele ser configurar los proveedores que desea usar. Cree una carpeta llamada `server` y cree un archivo en ella llamado `main.tf` con el siguiente código:
 
