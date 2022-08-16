@@ -35,11 +35,9 @@ En el módulo de integración continua veremos a detalle en qué exactamente con
 - [:three: Herramientas de CI](../herramientas-de-ci)
 - [:four: Mejores prácticas de CI](../mejores-practicas-de-ci)
 
-<!--
 ## Laboratorios :microscope:
 
-- [Lab. 5.1 - Introducción a GitHub Actions]()
- -->
+- [Lab. 5.1 - Introducción a GitHub Actions](../lab-01-introduccion-github-actions)
 
 ## Lecturas adicionales :notebook:
 

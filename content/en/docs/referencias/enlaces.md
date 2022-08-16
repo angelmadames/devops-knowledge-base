@@ -318,6 +318,11 @@ toc: true
 ### [Docker Swarm]
 ### [Apache Mesos]
 ### [Nomad]
+### [SSH client]
+### [EC2 Instance Connect]
+### [AWS Systems Manager Session Manager]
+### [PuTTY]
+### [Windows Subsystem for Linux]
 
 <!-- Enlaces -->
 [AWS]: https://aws.amazon.com
@@ -397,3 +402,8 @@ toc: true
 [DataDog]: https://www.datadoghq.com
 [Nagios]: https://www.nagios.org
 [New Relic]: https://newrelic.com
+[SSH client]: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/AccessingInstancesLinux.html
+[EC2 Instance Connect]: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/Connect-using-EC2-Instance-Connect.html
+[AWS Systems Manager Session Manager]: https://docs.aws.amazon.com/systems-manager/latest/userguide/session-manager.html
+[PuTTY]: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/putty.html
+[Windows Subsystem for Linux]: https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/WSL.html

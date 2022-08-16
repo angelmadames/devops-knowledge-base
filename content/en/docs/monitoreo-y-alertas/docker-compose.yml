@@ -1,0 +1,37 @@
+---
+# -- Anchors --#
+x-restart-policy: &restart-policy
+  restart: unless-stopped
+
+x-common: &common
+  <<: *restart-policy
+
+# -- Services -- #
+services:
+  prometheus:
+    <<: *common
+    image: prom/prometheus
+    container_name: prometheus
+    ports:
+      - 9090:9090
+    volumes:
+      - ./prometheus.yml:/etc/prometheus/promethus.yml
+      - prom_data:/prometheus
+    command:
+      - '--config.file=/etc/prometheus/prometheus.yml'
+
+  grafana:
+    <<: *common
+    image: grafana/grafana
+    container_name: grafana
+    ports:
+      - 3000:3000
+    environment:
+      - GF_SECURITY_ADMIN_USER=admin
+      - GF_SECURITY_ADMIN_PASSWORD=grafana
+    volumes:
+      - ./datasource.yml:/etc/grafana/provisioning/datasources/datasource.yml
+
+# -- Volumes -- #
+volumes:
+  prom_data:
